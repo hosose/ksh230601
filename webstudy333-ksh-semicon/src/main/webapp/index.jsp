@@ -30,7 +30,10 @@ test1
 안녕하세요
 방가방가
 출석합니다.
+<<<<<<< HEAD
 충돌
+=======
+>>>>>>> branch 'main' of https://github.com/hosose/ksh230601.git
 아무도 안올렸을때 올려야합니다
 </div>
 </body>
