@@ -25,10 +25,15 @@ test1
 카스테라켈리
 
 붐도체 반은 온다!
-
+충돌
+충돌
 안녕하세요
 방가방가
 출석합니다.
+<<<<<<< HEAD
+충돌
+=======
+>>>>>>> branch 'main' of https://github.com/hosose/ksh230601.git
 아무도 안올렸을때 올려야합니다
 abc
 </div>
